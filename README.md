@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ## 🚀 Featured Projects
 - [Entrie.ai](https://github.com/...) – In progress: U.S. visa & immigration community platform for international students & professionals
   ### https://www.entrie.ai/
-- [ML-Depression-Diagnosis]((https://github.com/samyoo22/ML-Depression-Diagnosis)) – ML pipeline for depression diagnosis using traditional ML & deep learning models
+- [ML-Depression-Diagnosis](https://github.com/samyoo22/ML-Depression-Diagnosis) – ML pipeline for depression diagnosis using traditional ML & deep learning models
 - [Sophron Labs Site](https://github.com/...) – Startup landing site for a responsible, human-centered AI company
   ### https://www.sophronlabs.io/
 
