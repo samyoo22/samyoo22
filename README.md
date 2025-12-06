@@ -1,4 +1,4 @@
-## Hi there This is Sam Yoo👋
+## Hi there, This is Sam Yoo 👋
 
 <!--
 **samyoo22/samyoo22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
