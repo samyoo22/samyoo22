@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,python,java,rust,postgres,supabase,firebase,docker,git,github,linux,aws,vercel&perline=10" />
+  <img src="https://skillicons.dev/icons?i=java,python,react,aws,springboot,nextjs,vercel,ts,js,nodejs,rust,postgres,supabase,firebase,docker,git,github,linux,vercel&perline=10" />
 </p>
 
 - Languages: Java, Python, Rust, JavaScript, TypeScript, ...
