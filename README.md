@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## 👨‍💻 About Me
 - B.S. & M.S. in Computer Science (Washington University in St. Louis), B.A. in Mathematics (Drew University), 
 - Interests: full-stack engineering, AI/ML, startups, and building real-world products
-- Currently building: Entrie.ai and Sophron Labs
+- Currently building: Entrie.ai
 
 ## 🛠 Tech Stack
 
