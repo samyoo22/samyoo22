@@ -35,9 +35,10 @@ Here are some ideas to get you started:
 - Immigration Docs Assistant - Immigration Docs Assistant helps F-1 students and US immigrants turn confusing visa documents into clear, safe next steps.
   ### https://www.kaggle.com/competitions/gemini-3/writeups/immigration-docs-assistant
 - [ML-Depression-Diagnosis](https://github.com/samyoo22/ML-Depression-Diagnosis) – ML pipeline for depression diagnosis using traditional ML & deep learning models
+<!--
 - [Sophron Labs Site](https://github.com/...) – Startup landing site for a responsible, human-centered AI company
   ### https://www.sophronlabs.io/
-
+-->
 ## 🔗 Links
 - Portfolio: coming soon
 - LinkedIn: https://www.linkedin.com/in/sam-yoo-ysy2424
